@@ -5,6 +5,6 @@
 
 //define class course here
 
-
+int main
 
 #endif
